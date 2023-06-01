@@ -28,3 +28,93 @@
 .btn:hover{
     background-color: rgb(245, 86, 118);
 }
+.nai{
+    text-align: center;
+    font-size: 40px;
+}
+.koi{
+    width: 300px;
+    font-size: small;
+    margin-left: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bye{
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    margin-left: 200px;
+    margin-top: 30px;
+    width: 900px;
+    height: 50px;
+    transition: 1s;
+}
+.bye:hover{
+    background-color: rgb(27, 5, 10);
+}
+.pase{
+    text-align: center;
+    margin: 50px;
+}
+.oi{
+    height: 30px;
+    width: 100px;
+    background-color: red;
+    margin-left: 600px;
+    margin-top: 0%;
+    border-radius: 30px;
+    border: none;
+    transition: 1s;
+}
+.oi:hover{
+    background-color: brown;
+}
+.shawn{
+    margin-left: 550px;
+    font-size: 50px;
+}
+
+.yasin{
+    text-align: center;
+    margin-left: 500px;
+    font-size: small;
+    width: 300px;
+}
+.rahman{
+    border: 30px;
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+}
+.ami{
+    border: 30px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 80px;
+}
+.tuhin{
+    font-size: 40px;
+}
+.tuhin1{
+    font-size: 40px;
+}
+.tuhin2{
+    font-size: 40px;
+}
+.toybul{
+    font-size: small;
+    width: 400px;
+}
+.toybul1{
+    font-size: small;
+    width: 400px;
+}
+.toybul2{
+    font-size: small;
+    width: 400px;
+}
