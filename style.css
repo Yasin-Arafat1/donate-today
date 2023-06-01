@@ -1,0 +1,30 @@
+.banner-container{
+    height: 500px;
+    background-image: url(./images/donation13.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-item{
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+.banner-item h1{
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: crimson;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    color: white;
+    margin-top: 15px;
+    transition: .5s;
+}
+.btn:hover{
+    background-color: rgb(245, 86, 118);
+}
