@@ -97,37 +97,91 @@
     border: 1px solid red;
     border-radius: 2rem;
     padding: 20px;
-    background-color: rgb(221, 91, 117);
+    background-color: rgb(228, 221, 222);
     border: none;
     height: 250px;
 }
 .rahman2{
-    border: 1px solid rgb(172, 69, 69);
+    border: 1px solid rgb(194, 189, 189);
     border-radius: 2rem;
     padding: 20px;
-    background-color: rgb(211, 136, 151);
+    background-color: rgb(209, 192, 196);
     border: none;
 }
 .rahman3{
     border: 1px solid rgb(77, 23, 23);
     border-radius: 2rem;
     padding: 20px;
-    background-color: rgb(212, 174, 181);
+    background-color: rgb(235, 212, 216);
     border: none;
 }
 .rahman4{
-    margin: 90px;
+   display: flex;
+   margin: 90px;
 }
 .rohim1{
+    font-size: 2rem;
 }
 .rohim2{
     font-size: small;
     display: flex;
 }
 .rohim3{
-    background-color: rgb(243, 29, 29);
+    background-color: rgb(235, 80, 80);
     border-radius: 10px;
     font-size: 20px;
     padding: 20px;
     margin-top: 30px;
+    border: none;
+}
+.w3{
+    height: 300px;
+    width: 500px;
+    margin: 90px;
+}
+.w4{
+    height: 300px;
+    width: 500px;
+    margin: 90px;
+}
+.w5{
+    display: flex;
+    margin: 90px;
+}
+.w6{
+    text-align: justify;
+}
+.w9{
+    text-align: center;
+}
+.w19{
+    margin: 0px 90px;
+    text-align: center;
+}
+.w10{
+    text-align: center;
+    background-color: rgb(235, 177, 189);
+    border: 1px solid crimson;
+    border-radius: 10px;
+    margin: 50px 100px;
+}
+.w11{
+    background-color: rgb(211, 162, 162);
+}
+.w12{
+    background-color: rgb(241, 31, 31);
+}
+.w15{
+    text-align: center;
+    border: 1px solid crimson;
+    padding: 39px;
+    margin: 20px 50px;
+    border: none;
+    background-color: rgb(17, 15, 15)
+}
+.w16{
+    color: crimson;
+}
+.w17{
+    color: aliceblue;
 }
